@@ -22,7 +22,7 @@ Limitless is a high-performance, vision-only foundation model agent designed to 
 ### 2. Setup
 ```powershell
 # Clone the repository
-git clone <repo-url>
+git clone https://github.com/haumlab/limitless
 cd ai_player
 
 # Install dependencies
